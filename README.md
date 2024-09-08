@@ -14,3 +14,4 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alechka09&label=Profile%20views&color=0e75b6&style=flat " alt="alechka09" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alechka09" alt="alechka09" /></a> </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alechka09&dracula=cobalt&show_icons=true)
