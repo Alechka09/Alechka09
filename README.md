@@ -2,5 +2,5 @@
 =============================================================================================================================
 
 *   🌍 I am from Blagoveshensk
-*   ✉️ Вы можете связаться со мной по адресу [lisa09122004@gmail.com](mailto:lisa09122004@gmail.com)<a 
+*   ✉️ Вы можете связаться со мной по адресу [lisa09122004@gmail.com](mailto:lisa09122004@gmail.com)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?alechka09=AParovyshnaya&theme=cobalt&show_icons=true)
