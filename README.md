@@ -2,9 +2,9 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 =============================================================================================================================
 
 *   🌍 I am from Blagoveshensk
-*   ✉️ You can contact me at [lisa09122004@gmail.com](mailto:lisa09122004@gmail.com)
+*   ✉️ Contact me [lisa09122004@gmail.com](mailto:lisa09122004@gmail.com)
 
-*   <h3 align="left">Contact me: </h3>
+*   <h3 align="left">My social networks: </h3>
 <p align="left">
 </p>
 
