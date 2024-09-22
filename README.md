@@ -15,7 +15,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
   </div>
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBxMm1lZnF0d2tzYmRvNXFmaHJwcDlqNGh1ZGJscWFkYmc1NGk5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/273P92MBOqLiU/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBxMm1lZnF0d2tzYmRvNXFmaHJwcDlqNGh1ZGJscWFkYmc1NGk5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/273P92MBOqLiU/giphy.gif" width="400"/>
 </div>
 
 <h1 align="center">Hello 👋, my name is Albina</h1>
